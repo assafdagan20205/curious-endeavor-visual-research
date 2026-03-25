@@ -1,1 +1,1 @@
-# curiousendeavor-visual-research
+# curious-endeavor-visual-research
